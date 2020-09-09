@@ -20,3 +20,5 @@
 		BS	R	CV	OG
 11	BS Бегущий пес
 		BS	R	CV	OG
+12	BS По ту сторону закона
+		BS	R	CV	OG
