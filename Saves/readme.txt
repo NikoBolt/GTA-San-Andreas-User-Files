@@ -195,13 +195,72 @@
 95 CJ Лищить голоса 5_14
 	S	♥D100 ♥Mc94 ♥Х70 ♥K66 ♥M40
 96 S Грув навсегда 5_15
-	CJ	♥D100 ♥Mc100 ♥Х76 ♥Б25 ♥K100 ♥M38 
+	CJ	♥D100 ♥Mc100 ♥Х91 ♥Б25 ♥K100 ♥M38 
 	
+	100 граффити в Лос-Сантосе;
+	50 фотографий в Сан-Фиерро;
+	50 подков в Лас-Вентурасе;
+	50 ракушек.
+
 	прыжки прошел
-	Импорт прошел
+	30 Импорт прошел
+	8 грузоперевозках
+	5 парковщика 
+	3 курьерские миссии
+	7 каменоломне 
+	скупить всю недвижимость
+	2 уровня в грузоперевозках на поезде;
+	
+осталось
+	9 гонки Лос-Сантос Little Mexico
+		1. Lowrider Race
+		2. Little Loop
+		3. Backroad Wanderer
+		4. City Circuit
+		5. Vinewood
+		6. Freeway
+		7. Into the Country
+		8. Badlands A
+		9. Badlands B
+	6 гонки Сан-Фиерро Wang Cars, район Downtown
+		1. Dirtbike Danger
+		2. Bandito County
+		3. Go-Go Karting
+		4. San Fierro Fastlane
+		5. San Fierro Hills
+		6. Сountry Endurance
+	4 гонки Лас-Вентурас  LVA Freight Depot
+		1. SF to LV
+		2. Dam Rider
+		3. Desert Tricks
+		4. LV Ringroad
+	5-1 гонки Лас-Вентурас воздух
+		-1. World War Ace
+		2. Barnstorming
+		3. Military Service
+		4. Chopper Checkpoint
+		5. Whirly Bird Waypoint
+		6. Heli Hell
+	
+ - 50 такси;
+ - 12 полицейским;
+ - 12 парамедика;
+ - 12 тушении пожаров;
+ - 10 сутенера;
 
+чекпойнты в BMX Challenge Лос-Сантосе
+чекпойнты в NRG-500 Challenge Сан-Фиерро
+ три гонки на горных велосипедах по Чилиад
+4 задания в тирах при Ammu-Nation
+ 4 задания на городских стадионах;
 
+«бронзу» 
+	автомобильной
+	лётной
+	лодочной
+	мотоциклетной
 
+три стиля борьбы в спортивных залах
 
 
 
