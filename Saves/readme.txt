@@ -209,7 +209,8 @@
 	3 курьерские миссии
 	7 каменоломне 
 	скупить всю недвижимость
-	2 уровня в грузоперевозках на поезде;
+	2 уровня в грузоперевозках на поезде
+	6 гонки Лас-Вентурас воздух
 	
 осталось
 	9 гонки Лос-Сантос Little Mexico
@@ -234,13 +235,8 @@
 		2. Dam Rider
 		3. Desert Tricks
 		4. LV Ringroad
-	5-1 гонки Лас-Вентурас воздух
-		-1. World War Ace
-		-2. Barnstorming
-		3. Military Service
-		4. Chopper Checkpoint
-		5. Whirly Bird Waypoint
-		6. Heli Hell
+	
+
 	
  - 50 такси;
  - 12 полицейским;
