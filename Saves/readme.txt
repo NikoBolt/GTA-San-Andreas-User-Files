@@ -211,6 +211,7 @@
 	скупить всю недвижимость
 	2 уровня в грузоперевозках на поезде
 	6 гонки Лас-Вентурас воздух
+	6 гонки Сан-Фиерро Wang Cars, район Downtown
 	
 осталось
 	9 гонки Лос-Сантос Little Mexico
@@ -223,13 +224,6 @@
 		7. Into the Country
 		8. Badlands A
 		9. Badlands B
-	6 гонки Сан-Фиерро Wang Cars, район Downtown
-		1. Dirtbike Danger
-		2. Bandito County
-		3. Go-Go Karting
-		4. San Fierro Fastlane
-		5. San Fierro Hills
-		6. Сountry Endurance
 	4 гонки Лас-Вентурас  LVA Freight Depot
 		1. SF to LV
 		2. Dam Rider
