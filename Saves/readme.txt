@@ -236,7 +236,7 @@
 		4. LV Ringroad
 	5-1 гонки Лас-Вентурас воздух
 		-1. World War Ace
-		2. Barnstorming
+		-2. Barnstorming
 		3. Military Service
 		4. Chopper Checkpoint
 		5. Whirly Bird Waypoint
@@ -244,7 +244,7 @@
 	
  - 50 такси;
  - 12 полицейским;
- - 12 парамедика;
+ - 9-12 парамедика;
  - 12 тушении пожаров;
  - 10 сутенера;
 
