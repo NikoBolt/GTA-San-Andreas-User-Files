@@ -212,25 +212,14 @@
 	2 уровня в грузоперевозках на поезде
 	6 гонки Лас-Вентурас воздух
 	6 гонки Сан-Фиерро Wang Cars, район Downtown
+	9 гонки Лос-Сантос Little Mexico
 	
 осталось
-	9 гонки Лос-Сантос Little Mexico
-		1. Lowrider Race
-		2. Little Loop
-		3. Backroad Wanderer
-		4. City Circuit
-		5. Vinewood
-		6. Freeway
-		7. Into the Country
-		8. Badlands A
-		9. Badlands B
 	4 гонки Лас-Вентурас  LVA Freight Depot
 		1. SF to LV
 		2. Dam Rider
 		3. Desert Tricks
 		4. LV Ringroad
-	
-
 	
  - 50 такси;
  - 12 полицейским;
